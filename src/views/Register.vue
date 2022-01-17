@@ -37,12 +37,12 @@
                         <option value="1">خراسان رضوی</option>
                         <option value="1">خراسان رضوی</option>
                     </select>
-                    <button class="btn btn--brand btn--boxshadow w--100 margin--bottom-10">ورود به سایت</button>
+                    <button class="btn btn--brand btn--boxshadow w--100 margin--bottom-10">ثبت نام</button>
                     <button class="btn btn--cancel btn--cancel w--100">انصراف</button>
 
                     <div class="account__footer">
-                        <span>کاربر جدید هستید ؟ </span>
-                        <router-link :to="{ name: 'Login' }" class="account__router">صفحه ورود</router-link>
+                        <span>از قبل ثبت نام کرده ام!  </span>
+                        <router-link :to="{ name: 'Login' }" class="account__router">صفحه ورود </router-link>
                     </div>
                 </form>
             </div>

@@ -6,7 +6,7 @@
             <h1 class="account__title">ورود به وب سایت</h1>
             <div class="account__form">
                 <form action="">
-                    <input type="text" class="txt txt--left" placeholder="شماره با موبایل">
+                    <input type="text" class="txt txt--left" placeholder="شماره موبایل">
                     <input type="text" class="txt txt--left" placeholder="رمز عبور">
                     <label class="ui-checkbox">
                         <input type="checkbox" class="ui-checkbox__input">
